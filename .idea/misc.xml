@@ -3,7 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/willi/AndroidStudioProjects/AppTV/tv/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/willi/AndroidStudioProjects/AppTV/mobile/src/main/res/layout/activity_main.xml" value="0.225" />
+        <entry key="..\:/Users/willi/AndroidStudioProjects/AppTV/tv/src/main/res/layout/activity_details.xml" value="0.24114583333333334" />
+        <entry key="..\:/Users/willi/AndroidStudioProjects/AppTV/tv/src/main/res/layout/activity_main.xml" value="0.3182291666666667" />
       </map>
     </option>
   </component>
